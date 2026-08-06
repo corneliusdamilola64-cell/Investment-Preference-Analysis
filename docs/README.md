@@ -12,6 +12,21 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [Business Problem](#business-problem)
+- [Business Questions](#business-questions)
+- [Data Preparation (Excel Power Query)](#data-preparation-excel-power-query)
+- [Data Model](#data-model)
+- [DAX Measures](#dax-measures)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Business Impact](#business-impact)
+- [Tools & Approach](#tools--approach)
+- [Repository Structure](#repository-structure)
+- [Deliverables](#deliverables)
+- [About the Author](#about-the-author)
 ## Executive Summary
 
 WealthBridge Advisors wanted to understand how demographics, goals, and risk appetite shape investment decisions. I cleaned and modeled survey data from 40 investors in Excel Power Query, built the data model and DAX measures in Power BI, and delivered an interactive dashboard the team can filter by age, gender, and investment goal.

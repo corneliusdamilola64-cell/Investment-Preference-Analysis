@@ -98,7 +98,7 @@ RETURN
 
 **Core Segment** — The 26–30 age group was the largest and most active investor segment in the sample.
 
-**Gender Split** — Male respondents participated more across most investment avenues; *[add the actual % split once confirmed from your data]*.
+**Gender Distribution** — The survey consisted of 25 male investors (62.5%) and 15 female investors (37.5%). Male respondents also demonstrated higher participation across nearly every investment avenue.
 
 **Investment Goals** — Retirement planning was the dominant stated objective, with a preferred holding duration of 3–5 years.
 

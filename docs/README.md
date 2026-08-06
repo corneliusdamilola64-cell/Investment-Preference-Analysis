@@ -37,11 +37,12 @@ WealthBridge had survey data sitting in a spreadsheet with no structured way to 
 
 ## Data Preparation (Excel Power Query)
 
-- Imported and standardized raw survey data
-- Corrected spelling/labeling inconsistencies across categorical fields *(e.g. "PPF", "P.P.F", "ppf" → one consistent label)*
-- Handled missing values: *[state your actual method here — e.g. "3 rows with missing income data were removed; 2 blank duration fields were imputed with the column mode"]*
-- Created an `Age Group` column via conditional binning for segment analysis
-- Converted data types (dates, categorical, numeric) to support accurate DAX aggregation
+- Imported the raw survey data into Excel Power Query
+- Standardized column names and categorical values
+- Corrected spelling inconsistencies across survey responses
+- Handled missing values and validated data quality
+- Created an `Age Group` column using conditional logic
+- Converted columns to appropriate data types for Power BI and DAX
 
 ## Data Model
 
